@@ -15,6 +15,8 @@ Welcome to the Python Mini Projects repository! Here you'll find a collection of
 Here are the projects included in this repository:
 
 1. **Email Validator**: A simple Email Validator  application built using Python.
+2. **Qr CodeGenrator**: A simple qr code genrator built using Python modules.
+
 
 ## **📝 CONTRIBUTION GUIDELINES**
 
