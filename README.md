@@ -16,6 +16,8 @@ Here are the projects included in this repository:
 
 1. **Email Validator**: A simple Email Validator  application built using Python.
 2. **Qr CodeGenrator**: A simple qr code genrator built using Python modules.
+3. **Shut Down-Gui**: A shutdown , restart and logout using os and tinker module pip
+
 
 
 ## **📝 CONTRIBUTION GUIDELINES**
