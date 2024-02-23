@@ -18,6 +18,7 @@ Here are the projects included in this repository:
 2. **Qr CodeGenrator**: A simple qr code genrator built using Python modules.
 3. **Shut Down-Gui**: A shutdown , restart and logout using os and tinker module pip
 4. **Typing Speed Calculator** : using time module and rectify errors and typing speed
+5. **Internet Speed Test** you can calculate downloading and uploading speed
 
 
 
