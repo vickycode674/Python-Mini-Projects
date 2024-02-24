@@ -19,6 +19,8 @@ Here are the projects included in this repository:
 3. **Shut Down-Gui**: A shutdown , restart and logout using os and tinker module pip
 4. **Typing Speed Calculator** : using time module and rectify errors and typing speed
 5. **Internet Speed Test** you can calculate downloading and uploading speed
+6. **Youtube Video /Playlist Downloader**
+7. **Text to handwriting convertors**
 
 
 
