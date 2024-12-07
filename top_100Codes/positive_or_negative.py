@@ -1,1 +1,1 @@
-print("hello python this is ch vivek sai")
+# step 1 taking input of number 
