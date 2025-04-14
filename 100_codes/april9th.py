@@ -90,3 +90,4 @@ for i in range(var+1):
         sum_of_primes = sum_of_primes+ i;
 print(f"Here is the sum of prime numbers in the range 0 to {var-1} dude: {sum_of_primes}")
 
+    
