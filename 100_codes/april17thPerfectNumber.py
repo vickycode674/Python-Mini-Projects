@@ -39,7 +39,7 @@ def perfect_square(n):
     # if root*root ==n:
     for i in range(1,n):
         if i*i==n:
-            flag=True;
+            flag=True
     if flag==True:
         print("perfect_square")
     else:
