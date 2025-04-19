@@ -9,7 +9,7 @@ def autmorphic_num(num):
     
     while temp!=0:
         if(temp%10!=square%10):
-            return false
+            return False
         temp=temp//10
         square=temp//1
     return True
@@ -61,5 +61,5 @@ def Harshad_num(var):
     if flag ==0:
         print("This is an not Harshad_num")
     else:
-        print("This is an Harshad_num");
+        print("This is an Harshad_num")
 Harshad_num(var)
