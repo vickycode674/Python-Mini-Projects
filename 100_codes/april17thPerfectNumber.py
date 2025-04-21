@@ -20,7 +20,7 @@ def perfect_num(n):
 
 perfect_num(var)
 
-# perfect square 
+# perfect square 25 (5*5) ala alaaaa
 # 🔁 Live Comparison Example (n = 10^6):
 
 # Version	Time (approx)	Code Simplicity	Scales Well

@@ -1,5 +1,6 @@
 # autmorphic_number with maths way
 # THE SQUARE OF THE NUMBER ENDS WITH VALUES WILL BE EQUAL TO NUMBER DUDE 
+# example: Ex: 76 → 76² = 5776
 
 var = int(input("Enter a number to autmorphic or not"))
 
@@ -41,6 +42,8 @@ autmorphic_num(var)
 # harshad mawa number  
 # ✅ Definition: Harshad Number
 # A number is called a Harshad Number (also known as a Niven Number) if it is divisible by the sum of its digits.
+# Divisible by the sum of its digits.
+# Ex: 18 → 1 + 8 = 9 → 18 % 9 = 0 ✅
 var = int(input("Enter a number to Harshad or niven or not"))
 
 def Harshad_num(var):

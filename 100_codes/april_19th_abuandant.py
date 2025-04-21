@@ -1,5 +1,7 @@
 #abaundant number dude
 # sum of the diviosrs is greter than actual given number 
+# Sum of proper divisors > number.
+# Ex: 12 → 1+2+3+4+6 = 16 > 12 ✅
 
 var = int(input("Enter a number to check abaundant"))
 
@@ -27,6 +29,10 @@ abaundant_num(var)
 
 
 # Friendly pair 
+
+# Pair of numbers with same abundance ratio (sum of divisors / number).
+
+# Example: (220, 284)
 
 var1 = int(input("oka  nachina number enter cheyi mowa: "))
 var2 = int(input("mee friend number enter cheyi mowa: "))

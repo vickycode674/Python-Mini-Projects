@@ -20,13 +20,13 @@
 
 # # 3 sum of n natuarl numbers
 
-# n =int(input("Enter a number to verify sum of n natural numbers:"))
+n =int(input("Enter a number to verify sum of n natural numbers:"))
 
-# if n > 0:
-#     total = 0
-#     for i in range(1,n+1):  #in python range begin from 0 to n-1 thats the reason we are adding in n
-#         total +=i
-#     print("Sum of n natural numbers is:", total)
+if n > 0:
+    total = 0
+    for i in range(1,n+1):  #in python range begin from 0 to n-1 thats the reason we are adding in n
+        total +=i
+    print("Sum of n natural numbers is:", total)
 
 #4 Sum of given numbers in a range using a fucntion
 
@@ -61,7 +61,7 @@ def greatest_three(a,b,c):
   
 print(greatest_three(10,2,30))
 
-#7 Leap year or not
+#7 Leap year or not should be divisilbe y 4 and 100 and 400 
 def leap_year(year):
     if year%4 == 0 and  year%100!=0 and year%400==0:
         return True
@@ -87,7 +87,7 @@ var =int(input("Enter a number to check the prime number ra mava"))
 sum_of_primes = 0
 for i in range(var+1):
     if(checkPrime(i)):
-        sum_of_primes = sum_of_primes+ i;
+        sum_of_primes = sum_of_primes+ i
 print(f"Here is the sum of prime numbers in the range 0 to {var-1} dude: {sum_of_primes}")
 
     

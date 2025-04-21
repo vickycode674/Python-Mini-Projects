@@ -1,6 +1,5 @@
 # Fibonacci series upto nth term 
 
-
 def fibonancci_series(n):
     if n<=0:
         return []

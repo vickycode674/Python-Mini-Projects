@@ -15,4 +15,8 @@ def hcf_num(a,b):
     return hcf
 
 
-print("Here is the number hcf_num",hcf_num(60,120))
+print("Here is the number hcf_num",hcf_num(60,120)) 
+ 
+#  //lowest common multiple  [LCM] 
+
+LCM = (a*b // hcf_num(a,b))  #here hcf is same as gcd its mainly to find the most common divosr for the given numebrs

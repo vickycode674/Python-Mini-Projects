@@ -43,7 +43,9 @@ else:
 
     
 
-# amstrong number dude 
+# amstrong number its that sum of each digit in a number with power of total numebrs 
+#  sum of (each digit ^ n) == number itself eg:153
+
 import math
 var = int(input("Enter a number to reverse it"))
 temp = 0

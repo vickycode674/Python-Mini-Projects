@@ -16,7 +16,7 @@ def factorial(n):
 
    while n>0:
        value = value*n 
-       n=n-1;
+       n=n-1
    return value
  
 print("Here is the factorial of number==========",factorial(4))
